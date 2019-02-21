@@ -1,6 +1,6 @@
 # Smart Home Manifest by RD1BY
 
-1. ###Affordability 
+1. ## Affordability 
 
     Smart home systems are not a luxury feature. It's based on simple and affordable electronics.
 
