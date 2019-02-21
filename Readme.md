@@ -1,4 +1,4 @@
-# Smart Home Manifest by RD1BY
+# Smart Home Manifest
 
 1. ### Affordability 
 
