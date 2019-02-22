@@ -1,4 +1,4 @@
-# Smart Home Manifest
+# Smart Home Manifesto
 
 1. ### Affordability 
 
